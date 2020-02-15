@@ -3,6 +3,7 @@
     <header style="background-color: #DDD">
       <router-link to="/">{{ $site.title }}</router-link>· <router-link to="/tag/">Tag</router-link>
     </header><br>
+    This sure is a page!! :D
     <DefaultGlobalLayout/><br>
     <footer style="background-color: #DDD"><a href="https://github.com/ulivz/70-lines-of-vuepress-blog-theme">Github</a> · Powered by VuePress</p>
 </footer>
